@@ -1,0 +1,19 @@
+18:22:17 [main] INFO  com.surya.hooks.Hooks - ===== Starting Scenario: Login with valid credentials =====
+18:22:17 [main] INFO  com.surya.hooks.Hooks - Config file loaded successfully
+18:22:17 [main] INFO  com.surya.hooks.Hooks - Launching browser: chrome on environment: QA
+18:22:22 [main] INFO  com.surya.hooks.Hooks - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+18:22:22 [main] INFO  com.surya.stepdefinitions.LoginSteps - User is on the login page
+18:22:22 [main] INFO  com.surya.stepdefinitions.LoginSteps - Entering username: Admin
+18:22:22 [main] INFO  com.surya.stepdefinitions.LoginSteps - Entering password
+18:22:22 [main] INFO  com.surya.stepdefinitions.LoginSteps - Clicking on the login button
+18:22:23 [main] INFO  com.surya.stepdefinitions.LoginSteps - Home page validated successfully
+18:22:23 [main] INFO  com.surya.hooks.Hooks - Scenario passed: Login with valid credentials
+18:22:23 [main] INFO  com.surya.hooks.Hooks - Browser closed
+18:22:23 [main] INFO  com.surya.hooks.Hooks - ===== Ending Scenario: Login with valid credentials =====
+18:22:23 [main] INFO  com.surya.hooks.Hooks - ===== Starting Scenario: Login with invalid credentials =====
+18:22:23 [main] INFO  com.surya.hooks.Hooks - Config file loaded successfully
+18:22:23 [main] INFO  com.surya.hooks.Hooks - Launching browser: chrome on environment: QA
+18:22:26 [main] INFO  com.surya.hooks.Hooks - Navigated to URL: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+18:22:26 [main] INFO  com.surya.hooks.Hooks - Scenario passed: Login with invalid credentials
+18:22:26 [main] INFO  com.surya.hooks.Hooks - Browser closed
+18:22:26 [main] INFO  com.surya.hooks.Hooks - ===== Ending Scenario: Login with invalid credentials =====
